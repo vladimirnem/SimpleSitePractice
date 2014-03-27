@@ -1,0 +1,505 @@
+body {
+	margin: 0 auto;
+	padding: 20px 15% 0 15%;
+	z-index: 1;
+
+
+}
+
+h3 {
+ text-align: left;
+ font: 28px arial, sans-serif;
+ width: 400px;
+}
+
+p {
+	color: #a8aeae;
+	font: 15px arial, sans-serif;
+	text-align: left;
+	width: 600px;
+}
+
+.introduction {
+	margin-top: 20px;
+	width: 50%;
+	height: 100px;
+	float: left;
+	display: inline-block;
+}
+
+.buy-store {
+	margin-top: 20px;
+	width: 50%;
+	height: 100px;
+	float: left;
+}
+
+
+}
+
+.video {
+	width: 210px;
+	height: 150px;
+	background-image: url('img_baby.png');
+    background-size: 220px 160px;
+    border-radius: 4%;
+    display: inline-block;
+    float: left;
+}
+a.video {
+	
+}
+
+.introduction h4 {
+	padding-left: 0px;
+	text-align: left;
+    font: 15px arial, sans-serif;
+}
+
+.own {
+	margin-left: 0px;
+	width: 200px;
+	color: #a8aeae;
+	font: 13px arial, sans-serif;
+
+}
+
+.buy-apple {
+
+	margin: 1em 2em;
+	width: 180px;
+	height: 30px;
+	background-image: url('byapple.png');
+	background-size: 180px 30px;
+	border-radius: 2%;
+	display: block;
+}
+
+.buy-android {
+
+	margin: 0 2em;
+	width: 180px;
+	height: 30px;
+	background-image: url('bygoogle.png');
+	background-size: 180px 30px;
+	border-radius: 2%;
+	display: block;
+}
+
+.buy-store p {
+	margin: 0.5em 5em;
+	font: 10px arial, sans-serif;
+
+}
+
+.first-comp {
+    margin: 10em 0 0 0;
+	width: 50%;
+	display: inline-block;
+	float: left;
+
+}
+
+.second-comp {
+	margin: 10em 0 0 0;
+	width:50%;
+	display: inline-block;
+
+}
+
+.first-comp p {
+
+	text-align: left;
+	font: 15px arial, sans-serif;
+	width: 440px;
+
+}
+
+ .byapple2 {
+
+    margin: 2em 2em 0 0;
+	width: 180px;
+	height: 30px;
+	background-image: url('byappl2.png');
+	background-size: 180px 30px;
+	border-radius: 2%;
+	float: left;
+	
+
+}
+p.learn {
+	margin-top: 3.5em;
+	color: #1a8f71;
+}
+
+.videotwo {
+	width: 290px;
+	height:200px;
+    background-image: url('screen.png');
+    background-size: 290px 200px;
+    margin: 3em auto;
+}
+
+.startup-cinematext {
+
+    width: 50%;
+    margin-top: 3em ;
+	display: inline-block;
+	float: left;
+
+}
+
+.startup-cinematext p {
+margin-top: 3em;
+	width: 400px;
+}
+}
+.start-up-cinematexttwo {
+	width:50%;
+	margin-top: 3em;
+	display: block;
+}
+
+.ticket {
+	margin-top: 10em;
+	width: 300px;
+	height: 150px;
+	background-image: url('ticket.png');
+	background-size: 300px 150px;
+	display: inline-block;
+	float: right;
+	
+}
+
+.line {
+	background: url('grayline.png');
+	width: 100%;
+	height: 7px;
+	background-position: bottom;
+	display: inline-block;
+	background-repeat: repeat-x;
+}
+
+.textsamples {
+	margin-top: 4em;
+	width: 100%;
+	display: inline-block;
+}
+
+.textsamples div {
+	width:33%;
+	text-align: center;
+	float: left;
+}
+
+.block1 h4 {
+    padding: 0 auto;
+    text-align: center;
+    font: 15px arial, sans-serif;
+}
+
+.block1 p {
+
+    margin: 0 auto;
+    color: #a8aeae;
+	font: 10px arial, sans-serif;
+	text-align: center;
+    width: 200px;
+}
+.block2 h4 {
+    padding: 0 auto;
+    text-align: center;
+    font: 15px arial, sans-serif;
+}
+
+.block2 p {
+
+    margin: 0 auto;
+    color: #a8aeae;
+	font: 10px arial, sans-serif;
+	text-align: center;
+    width: 200px;
+}
+.block3 h4 {
+    padding: 0 auto;
+    text-align: center;
+    font: 15px arial, sans-serif;
+}
+
+.block3 p {
+
+    margin: 0 auto;
+    color: #a8aeae;
+	font: 10px arial, sans-serif;
+	text-align: center;
+    width: 200px;
+}
+.block4 p {
+
+    margin: 0 auto;
+    color: #a8aeae;
+	font: 13px arial, sans-serif;
+	text-align: center;
+    width: 200px;
+}
+.block5 p {
+
+    margin: 0 auto;
+    color: #a8aeae;
+	font: 13px arial, sans-serif;
+	text-align: center;
+    width: 200px;
+}
+.block6 p {
+
+    margin: 0 auto;
+    color: #a8aeae;
+	font: 13px arial, sans-serif;
+	text-align: center;
+    width: 200px;
+}
+.block7 p {
+
+    margin: 0 auto;
+    color: #a8aeae;
+	font: 13px arial, sans-serif;
+	text-align: center;
+    width: 200px;
+}
+
+.featuresofstartup {
+	margin: 3em auto;
+	display: block;
+}
+
+.featuresimg {
+	width: 100%;
+	margin-top: 3em;
+    display: inline-block;
+}
+.imark {
+	width: 33%;
+	height: 90px;
+	display: inline-block;
+	background-image: url('mark.png');
+	background-position: center;
+	background-size: 100px  90px;
+	background-repeat: no-repeat;
+
+}
+
+.itime {
+	width: 33%;
+	height: 90px;
+	display: inline-block;
+	background-image: url('time.png');
+	background-size: 100px  90px;
+	background-position: center;
+	background-repeat: no-repeat;
+
+}
+
+.irocket {
+
+	width: 33%;
+	height: 90px;
+	display: inline-block;
+	float: left;
+	background-image: url('rocket.png');
+	background-position: center;
+	background-size: 100px  90px;
+    background-repeat: no-repeat;
+}
+
+body > div.featuresofstartup > div.block1 {
+
+    width:33%;
+	text-align: center;
+	float: left;
+
+}
+body > div.featuresofstartup > div.block2 {
+
+    width:33%;
+	text-align: center;
+	float: left;
+
+}
+body > div.featuresofstartup > div.block3 {
+
+    width:33%;
+	text-align: center;
+	float: left;
+
+}
+
+.pproject {
+	margin-top: 5em;
+	display: inline-block;
+	width: 100%;
+}
+
+.magic {
+	width: 100%;
+	height: 200px;
+	background-image: url('magic.png');
+	background-size: 200px 190px;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.pproject h3 {
+ text-align: center;
+ margin: 1.5em auto 0;
+}
+
+.pproject p {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.block4 {
+	margin-top: 3em;
+	margin-left: 15%;
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+
+.block5 {
+	margin-top: 3em;
+	margin-left: 15%;
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+.block6 {
+	margin-top: 5em;
+	margin-left: 15%;
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+.block7 {
+	margin-top: 5em;
+	margin-left: 15%;
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+div.pproject h4 {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.block4 h4 {
+	background: url('savetime.png') no-repeat;
+	background-size: 20px 20px;
+	background-position: left;
+}
+.block5 h4 {
+	background: url('resplayout.png') no-repeat;
+	background-size: 20px 20px;
+	background-position: left;
+}
+.block6 h4 {
+	background: url('Retina.png') no-repeat;
+	background-size: 20px 20px;
+	background-position: left;
+}
+.block7 h4 {
+	background: url('moneyec.png') no-repeat;
+	background-size: 20px 20px;
+	background-position: left;
+}
+
+.pproject2 {
+	margin-top: 5em;
+	display: inline-block;
+	width: 100%;
+}
+
+.pproject2 .magic {
+	background: url('endless.png') no-repeat;
+	background-size: 100px 90px;
+	background-position: center;
+}
+
+body div.pproject div.pproject2 div.block4 h4 {
+	background: none;
+}
+body div.pproject div.pproject2 div.block5 h4 {
+	background: none;
+}
+body div.pproject div.pproject2 div.block6 h4 {
+	background: none;
+}
+body div.pproject div.pproject2 div.block7 h4 {
+	background: none;
+}
+
+
+.awesomep {
+	margin-top: 5em;
+	display: inline-block;
+	width: 100%;
+
+}
+
+.awesomep h3 {
+	margin: 0 auto;
+	text-align: center;
+	font-size: 24px;
+}
+.leftxt {
+	width:25%;
+	display: inline-block;
+	float: left;
+}
+.leftxt p {
+	margin: 10em auto;
+	margin-top: 20em;
+	width: 120px;
+	font-size: 12px;
+}
+.midtxt {
+	margin-top: 3em;
+	width:50%;
+	height: 450px;
+	background-image: url('table.png');
+	background-size: 300px 450px;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: inline-block;
+	float: left;
+}
+.rightxt {
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+.rightxt p {
+	width: 150px;
+	font-size: 12px;
+	margin: auto
+}
+
+.rightxt h5 {
+
+	margin: 0 auto;
+	margin-top: 10em;
+	font-size: 15px; 
+	color: #df342f;
+	}
+
+.magic2 {
+	    margin-top: 10em;
+		width: 100%;
+		height: 150px;
+		background: url('compyps.png') no-repeat;
+		background-size: 325px 150px;
+        background-position: center;
+
+		display: inline-block;
+
+	}
+	
